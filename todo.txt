@@ -1,0 +1,7 @@
+Extension Logo (for Extensions page in Chrome)
+
+Grey out icon for sites not matched (not youtube.com/watch...)
+    Greyscale version of icon
+
+Add inverse action - return to watch not embed
+    Possibly change icon to emphasize change
